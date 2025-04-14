@@ -1,0 +1,22 @@
+{
+  "name": "FastShell",
+  "name_en": "FastShell",
+  "main": "index.js",
+  "icon": "eye",
+  "version": "0.1",
+  "description": "集成一些拿shell后的常用操作",
+  "description_en": "Integrate some common shell operations",
+  "author": {
+    "name": "C1oudfL0w0",
+    "email": "z3r0w0@foxmail.com"
+  },
+  "category": "默认分类",
+  "category_en": "default",
+  "multiple": false,
+  "scripts": [
+    "php",
+    "asp",
+    "aspx",
+    "custom"
+  ]
+}
