@@ -1,1 +1,5 @@
+.gitignore
 .DS_*
+index_dev*.js
+test.php
+libs/
